@@ -42,7 +42,7 @@ span{
 .todo-card{
     background-color: #181d31;
     
-    max-width: 600px;
+    max-width: 400px;
     margin: 15px;
     min-width: 300px;
     border-radius: 10px;
@@ -50,7 +50,7 @@ span{
     flex-wrap: wrap;
     font-size: x-large;
     font-weight: 600;
-   
+    
     
 }
 

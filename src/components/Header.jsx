@@ -13,7 +13,7 @@ export default function Header (props) {
     const todosLength = counter(todos);
     return (
         <header>
-            <h1>You have {todosLength} open {todosLength > 1?"Tasks":"Task"} </h1>
+            <h1>Here are your tasks</h1>
         </header>
     )
 }
